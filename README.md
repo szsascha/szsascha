@@ -7,7 +7,7 @@ In my free time, I really like to learn new things and take on challenges. Not o
 
 Most of my Github repositories were created while I was learning new technologies and wanted to share my new learned knowledge.
 
-#### Some open source projects I've contributed to:
+#### Some open source projects I've contributed code to:
 - [vuejs/vitepress](https://github.com/vuejs/vitepress)
 - [halcyon-tech/vscode-ibmi](https://github.com/halcyon-tech/vscode-ibmi)
 - [halcyon-tech/ibm-i-development-pack](https://github.com/halcyon-tech/ibm-i-development-pack)
