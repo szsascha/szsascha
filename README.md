@@ -10,8 +10,8 @@ Most of my Github repositories were created while I was learning new technologie
 #### Some open source projects I've contributed code to:
 - [vuejs/vitepress](https://github.com/vuejs/vitepress)
 - [halcyon-tech/vscode-ibmi](https://github.com/halcyon-tech/vscode-ibmi)
-- [halcyon-tech/ibm-i-development-pack](https://github.com/halcyon-tech/ibm-i-development-pack)
 - [worksofliam/NetRPG](https://github.com/worksofliam/NetRPG)
+- [Danjb1/anno-1602-reader](https://github.com/Danjb1/anno-1602-reader)
 
 <!--
 **szsascha/szsascha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
