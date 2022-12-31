@@ -8,6 +8,7 @@ In my free time, I really like to learn new things and take on challenges. Not o
 Most of my Github repositories were created while I was learning new technologies and wanted to share my new learned knowledge.
 
 #### Some open source projects I've contributed code to:
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress)
 - [halcyon-tech/vscode-ibmi](https://github.com/halcyon-tech/vscode-ibmi)
 - [worksofliam/NetRPG](https://github.com/worksofliam/NetRPG)
