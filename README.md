@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Sascha and I'm a full-time Senior Software-Development Consultant. Currently working on the backend of large Java projects.
-Prior to that, I spent a decade of developing and supporting large logistics solutions for big companies on IBM i in different programming languages like RPG and Java.
+My name is Sascha and I'm a full-time Senior Software-Development Consultant and Data Protection Officer. Currently working on the backend of large Java projects.
+Prior to that, I spent a decade of developing and supporting large logistics solutions for big companies on IBM i in several programming languages like RPG and Java.
 
-In my free time, I really like to learn new things and take on challenges. Not only on software development, but also in sports.
+In my free time, I really like to learn new things and take on challenges. Not only in software development, but also in sports.
 
 Most of my Github repositories were created while I was learning new technologies and wanted to share my new learned knowledge.
 
