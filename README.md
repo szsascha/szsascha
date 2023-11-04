@@ -10,7 +10,7 @@ Most of my Github repositories were created while I was learning new technologie
 #### Some open source projects I've contributed code to:
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress)
-- [halcyon-tech/vscode-ibmi](https://github.com/halcyon-tech/vscode-ibmi)
+- [codefori/vscode-ibmi](https://github.com/codefori/vscode-ibmi)
 - [worksofliam/NetRPG](https://github.com/worksofliam/NetRPG)
 - [Danjb1/anno-1602-reader](https://github.com/Danjb1/anno-1602-reader)
 
